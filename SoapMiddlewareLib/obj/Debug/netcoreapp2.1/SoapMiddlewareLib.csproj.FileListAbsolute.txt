@@ -1,0 +1,8 @@
+C:\Projects\Code\NetCoreWebApp\SoapMiddlewareLib\bin\Debug\netcoreapp2.1\SoapMiddlewareLib.deps.json
+C:\Projects\Code\NetCoreWebApp\SoapMiddlewareLib\bin\Debug\netcoreapp2.1\SoapMiddlewareLib.dll
+C:\Projects\Code\NetCoreWebApp\SoapMiddlewareLib\bin\Debug\netcoreapp2.1\SoapMiddlewareLib.pdb
+C:\Projects\Code\NetCoreWebApp\SoapMiddlewareLib\obj\Debug\netcoreapp2.1\SoapMiddlewareLib.csproj.CoreCompileInputs.cache
+C:\Projects\Code\NetCoreWebApp\SoapMiddlewareLib\obj\Debug\netcoreapp2.1\SoapMiddlewareLib.AssemblyInfoInputs.cache
+C:\Projects\Code\NetCoreWebApp\SoapMiddlewareLib\obj\Debug\netcoreapp2.1\SoapMiddlewareLib.AssemblyInfo.cs
+C:\Projects\Code\NetCoreWebApp\SoapMiddlewareLib\obj\Debug\netcoreapp2.1\SoapMiddlewareLib.dll
+C:\Projects\Code\NetCoreWebApp\SoapMiddlewareLib\obj\Debug\netcoreapp2.1\SoapMiddlewareLib.pdb

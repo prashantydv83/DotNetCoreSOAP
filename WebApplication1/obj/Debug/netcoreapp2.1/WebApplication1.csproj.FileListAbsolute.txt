@@ -1,0 +1,17 @@
+C:\Projects\Code\NetCoreWebApp\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+C:\Projects\Code\NetCoreWebApp\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Projects\Code\NetCoreWebApp\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Projects\Code\NetCoreWebApp\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Projects\Code\NetCoreWebApp\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Projects\Code\NetCoreWebApp\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\Projects\Code\NetCoreWebApp\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+C:\Projects\Code\NetCoreWebApp\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\Projects\Code\NetCoreWebApp\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\Projects\Code\NetCoreWebApp\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Projects\Code\NetCoreWebApp\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Projects\Code\NetCoreWebApp\WebApplication1\bin\Debug\netcoreapp2.1\SoapMiddlewareLib.dll
+C:\Projects\Code\NetCoreWebApp\WebApplication1\bin\Debug\netcoreapp2.1\SoapMiddlewareLib.pdb
+C:\Projects\Code\NetCoreWebApp\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Projects\Code\NetCoreWebApp\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CopyComplete
+C:\Projects\Code\NetCoreWebApp\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Projects\Code\NetCoreWebApp\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb

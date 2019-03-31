@@ -1,0 +1,15 @@
+C:\Projects\Code\NetCoreWebApp\NetCoreWebApp\bin\Debug\netcoreapp2.1\NetCoreWebApp.deps.json
+C:\Projects\Code\NetCoreWebApp\NetCoreWebApp\bin\Debug\netcoreapp2.1\NetCoreWebApp.runtimeconfig.json
+C:\Projects\Code\NetCoreWebApp\NetCoreWebApp\bin\Debug\netcoreapp2.1\NetCoreWebApp.runtimeconfig.dev.json
+C:\Projects\Code\NetCoreWebApp\NetCoreWebApp\bin\Debug\netcoreapp2.1\NetCoreWebApp.dll
+C:\Projects\Code\NetCoreWebApp\NetCoreWebApp\bin\Debug\netcoreapp2.1\NetCoreWebApp.pdb
+C:\Projects\Code\NetCoreWebApp\NetCoreWebApp\obj\Debug\netcoreapp2.1\NetCoreWebApp.csprojAssemblyReference.cache
+C:\Projects\Code\NetCoreWebApp\NetCoreWebApp\obj\Debug\netcoreapp2.1\NetCoreWebApp.csproj.CoreCompileInputs.cache
+C:\Projects\Code\NetCoreWebApp\NetCoreWebApp\obj\Debug\netcoreapp2.1\NetCoreWebApp.AssemblyInfoInputs.cache
+C:\Projects\Code\NetCoreWebApp\NetCoreWebApp\obj\Debug\netcoreapp2.1\NetCoreWebApp.AssemblyInfo.cs
+C:\Projects\Code\NetCoreWebApp\NetCoreWebApp\obj\Debug\netcoreapp2.1\NetCoreWebApp.RazorTargetAssemblyInfo.cache
+C:\Projects\Code\NetCoreWebApp\NetCoreWebApp\obj\Debug\netcoreapp2.1\NetCoreWebApp.dll
+C:\Projects\Code\NetCoreWebApp\NetCoreWebApp\obj\Debug\netcoreapp2.1\NetCoreWebApp.pdb
+C:\Projects\Code\NetCoreWebApp\NetCoreWebApp\bin\Debug\netcoreapp2.1\SoapMiddlewareLib.dll
+C:\Projects\Code\NetCoreWebApp\NetCoreWebApp\bin\Debug\netcoreapp2.1\SoapMiddlewareLib.pdb
+C:\Projects\Code\NetCoreWebApp\NetCoreWebApp\obj\Debug\netcoreapp2.1\NetCoreWebApp.csproj.CopyComplete
